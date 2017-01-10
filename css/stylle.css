@@ -1,5 +1,5 @@
 h1 {
-  font-size: 90px;
+  font-size: 70px;
   font-style: oblique;
 }
 h2 {
@@ -20,14 +20,15 @@ h6{
 }
 
 p {
-  font-size: 18px;
-  text-align: justify;
+  font-size: 14px;
+  text-align: center;
   line-height: 1;
 }
 
 .content{
   text-align: justify;
   line-height: 1
+
 }
 h5 {
   font-size: 30px;
@@ -40,4 +41,15 @@ h5 {
 a.book{
   text-decoration: none;
   color: black;
+}
+.sam{
+  float: right;
+  right: auto;
+}
+.hog{
+  float: left;
+}
+.zhang{
+  float: none;
+  rig
 }
