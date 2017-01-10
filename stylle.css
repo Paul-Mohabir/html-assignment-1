@@ -1,12 +1,80 @@
-h1 {
-  font-size: 60px;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
+
+
+h1 {
+
+  font-size: 70px;
+  font-style: oblique;
+}
 h2 {
   font-size: 20px;
 }
-
 h3 {
   font-weight: bold;
   font-size: 35px;
+}
+h4 {
+  line-height: 1;
+  color: blue;
+}
+h6{
+  font-size: 20px;
+  color: black
+  link black;
+}
+
+p {
+  font-size: 14px;
+  text-align: center;
+  line-height: 1;
+}
+
+
+
+}
+h5 {
+  font-size: 30px;
+}
+
+
+a.book{
+  text-decoration: none;
+  color: black;
+}
+.ele{
+  float: right;
+  margin: 0 0.5%;
+
+}
+.hog{
+  float: left;
+
+}
+.zhang{
+  float: left;
+  
+
+
+}
+footer{
+  text-align: center;
+  clear: both;
+  margin-top: 150px;
+
+
+}
+.authors{
+  overflow: hidden;
+}
+.authors ul{
+  width: 33%;
+  border-radius: 10px
+}
+.lastline{
+  font-size: 50px;
 }
