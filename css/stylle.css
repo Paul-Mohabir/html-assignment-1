@@ -1,4 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
 h1 {
+
   font-size: 70px;
   font-style: oblique;
 }
@@ -25,31 +34,42 @@ p {
   line-height: 1;
 }
 
-.content{
-  text-align: justify;
-  line-height: 1
+
 
 }
 h5 {
   font-size: 30px;
 }
-.Title {
-  text-align: justify;
-  font-size: 20px;
-}
+
 
 a.book{
   text-decoration: none;
   color: black;
 }
-.sam{
+.ele{
   float: right;
-  right: auto;
+  margin: 0 0.5%;
+
 }
 .hog{
   float: left;
+
 }
 .zhang{
-  float: none;
-  rig
+  float: left;
+
+
+}
+footer{
+  text-align: center;
+  clear: both;
+  margin-top: 150px;
+
+}
+.authors{
+  overflow: hidden;
+}
+.authors ul{
+  width: 33%;
+  border-radius: 10px
 }
