@@ -13,9 +13,31 @@ h4 {
   line-height: 1;
   color: blue;
 }
+h6{
+  font-size: 20px;
+  color: black
+  link black;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+  line-height: 1;
+}
+
 .content{
   text-align: justify;
+  line-height: 1
 }
 h5 {
-  font-size: 35px;
+  font-size: 30px;
+}
+.Title {
+  text-align: justify;
+  font-size: 20px;
+}
+
+a.book{
+  text-decoration: none;
+  color: black;
 }
