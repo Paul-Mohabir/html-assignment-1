@@ -57,6 +57,7 @@ a.book{
 }
 .zhang{
   float: left;
+  
 
 
 }
@@ -65,6 +66,7 @@ footer{
   clear: both;
   margin-top: 150px;
 
+
 }
 .authors{
   overflow: hidden;
@@ -72,4 +74,7 @@ footer{
 .authors ul{
   width: 33%;
   border-radius: 10px
+}
+.lastline{
+  font-size: 50px;
 }
